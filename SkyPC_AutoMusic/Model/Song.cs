@@ -8,8 +8,8 @@ namespace SkyPC_AutoMusic.Model
 {
     public enum NoteKey
     {
-        _1Key0, _1Key1, _1Key2, _1Key3, _1Key4, _1Key5, _1Key6, _1Key7, _1Key8, _1Key9, _1Key10, _1Key11, _1Key12, _1Key13, _1Key14,
-        _2Key0, _2Key1, _2Key2, _2Key3, _2Key4, _2Key5, _2Key6, _2Key7, _2Key8, _2Key9, _2Key10, _2Key11, _2Key12, _2Key13, _2Key14
+        _1Key0, _1Key1, _1Key2, _1Key3, _1Key4, _1Key5, _1Key6, _1Key7, _1Key8, _1Key9, _1Key10, _1Key11, _1Key12, _1Key13, _1Key14, _1Key15, _1Key16, _1Key17, _1Key18, _1Key19, _1Key20, _1Key21
+        _2Key0, _2Key1, _2Key2, _2Key3, _2Key4, _2Key5, _2Key6, _2Key7, _2Key8, _2Key9, _2Key10, _2Key11, _2Key12, _2Key13, _2Key14, _2Key15, _2Key16, _2Key17, _2Key18, _2Key19, _2Key20, _2Key21
     }
 
     public class Song
